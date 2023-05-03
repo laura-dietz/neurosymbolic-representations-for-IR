@@ -1,4 +1,35 @@
 
+# Resources for Tutorial on Neuro-Symbolic Representations for IR
+
+This tutorial was held at SIGIR 2023 in Taipei
+
+Slides and additional material can be obtained via this repository.
+
+
+Tutorial Overview Paper (upcoming)
+
+## Contents
+
+Part 1: Knowledge Graphs and Entities
+   1. Purpose of this tutorial
+   2. Neural Text Representations and Semantic Annotations
+   3. Knowledge Graphs and Question Answering
+   4. Ranking Wikipedia Entities/Aspects
+
+
+Part 2:  Neuro-Symbolic Foundations
+   1. Infusion of Symbolic Knowledge into Text Representation
+   2. Reasoning about Relevance
+
+Part 3: Practical Advantages for Ad Hoc Retrieval
+  1. Denoising Dense Representations with Symbols
+  2. Explainability for Pseudo-relevance Feedback
+
+Part 4: Applications for Neuro-symbolic approaches
+  1. Use Case: Task-based Assistance
+  2. Use Case: Generating Relevant Articles
+  2. Panel \& Discussion
+
 
 
 ## Presenters
