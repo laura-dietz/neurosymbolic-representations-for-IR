@@ -1,0 +1,34 @@
+
+
+
+## Presenters
+
+**Laura Dietz, Associate Professor, University of New Hampshire (main contact).**
+
+Dr. Dietz focuses on integrating relevance-oriented tasks, using full-text search,  Wikipedia knowledge, semantic annotations, along with organizing and generating content based on subtopics. She organized the KG4IR Tutorial and Workshop Series (ICTIR 2016, WSDM 2017, SIGIR 2017, SIGIR 2018) and the TREC Complex Answer Retrieval track (2017--2019).
+
+**Hannah Bast, Full Professor, University of Freiburg.**
+
+Dr. Bast works on all aspects of information retrieval, with a focus on efficiency, ease of use, and fully functional systems. Her search systems power DBLP, Google Maps, and maybe soon Wikidata.  Her work combines indexing and search in full text and structured knowledge for downstream applications such as question answering.
+
+
+**Shubham Chatterjee, Research Associate, University of Glasgow.**
+
+Dr. Chatterjee focuses on neural entity-oriented information retrieval and extraction, particularly text understanding using entities and entity ranking. 
+His goal is to build an intelligent search system that can answer open-ended information needs.
+
+**Jeff Dalton, Senior Lecturer, University of Glasgow.**
+
+Dr. Dalton focuses on methods for effectively leveraging knowledge for complex information-seeking tasks. His work on entity-based query feature expansion published at SIGIR in 2014 
+is one of the first to demonstrate the effectiveness of using general-purpose knowledge graphs for search.
+He is a Turing AI Acceleration Fellow at the Turing Institute with a prestigious UKRI fellowship, and the lead organizer of the TREC Conversational Assistance track.
+
+
+**Jian-Yun Nie, Full Professor, University of Montreal.** 
+
+Dr. Nie is interested in all aspects of semantic matching based on reasoning and knowledge. He has worked on logical IR models and neural models based on knowledge graphs and applied them to various tasks such as medical IR. He has served for many conferences, including as SIGIR 2019 PC chair.
+
+
+**Dr. Nogueira, Consultant and Adjunct Professor, UNICAP University in Brazil.**
+
+Dr. Nogeira will be speaking about his pioneering work on using Transformers for search, with many central publications such as monoT5, doc2query, and InPars, and is a co-author of the book "Pretrained Transformers for Text Ranking." After several years in academia, he is now consulting search engine companies.
