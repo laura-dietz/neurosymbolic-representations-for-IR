@@ -69,5 +69,5 @@ He has taught several tutorials and organized various workshops on knowledge gra
 
 Dr. de Vries uses structured and unstructured information to improve information access. He works on entity linking as well as entity retrieval, demonstrating that having knowledge of the entities in the query can help improve retrieval performance for entity-oriented search tasks.
 
-Dr. de Vries organized the first information retrieval evaluation campaigns that looked beyond documents into entities---the Enterprise Search track at TREC and later, the Entity Ranking track at INEX. %He also organized the tutorial \emph{From Expert Finding to Entity Search on the Web} at ECIR 2012. 
+Dr. de Vries organized the first information retrieval evaluation campaigns that looked beyond documents into entities---the Enterprise Search track at TREC and later, the Entity Ranking track at INEX. He also organized the tutorial _From Expert Finding to Entity Search on the Web_ at ECIR 2012. 
 
