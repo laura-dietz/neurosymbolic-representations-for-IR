@@ -11,24 +11,24 @@ Tutorial Overview Paper (upcoming)
 ## Contents
 
 Part 1: Knowledge Graphs and Entities
-   1. Purpose of this tutorial
-   2. Neural Text Representations and Semantic Annotations
-   3. Knowledge Graphs and Question Answering
-   4. Ranking Wikipedia Entities/Aspects
+  1. Welcome & Motivation (Dietz)
+  2. Knowledge Graphs and GPT  (Bast)
+  3. Entity Linking (Bast)
+  
+Part 2: Neuro-Symbolic Foundations
+  1. Ranking Wikipedia Entities / Aspects (Chatterjee)
+  2. Neural Text Representations and Semantic Annotations  (Dietz)
+  3. Infusion of Symbolic Knowledge into Text Representation (Nie)
 
+Part 3: Reasoning, Robustness, and Relevance
+  1. Denoising Dense Representations with Symbols (Nogueira)
+  2. Reasoning about Relevance  (Dalton)
+  3. From PRF to Retrieval Enhanced Generation (Dietz)
 
-Part 2:  Neuro-Symbolic Foundations
-   1. Infusion of Symbolic Knowledge into Text Representation
-   2. Reasoning about Relevance
+Part 4: Emerging Topics
+  1. Conclusion and Outlook
+  2. Panel Discussion
 
-Part 3: Practical Advantages for Ad Hoc Retrieval
-  1. Denoising Dense Representations with Symbols
-  2. Explainability for Pseudo-relevance Feedback
-
-Part 4: Applications for Neuro-symbolic approaches
-  1. Use Case: Task-based Assistance
-  2. Use Case: Generating Relevant Articles
-  2. Panel \& Discussion
 
 
 
