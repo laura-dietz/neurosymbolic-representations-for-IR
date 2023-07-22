@@ -16,6 +16,8 @@ Presenters: Dietz, Bast, Chatterjee, Dalton, Nie, Nogueira
 
 -- more focus on neural 
 
+SIGIR Slack channel: #sigir23-neurosymbolic-tutorial
+
 <br/>
 
 Slides and additional material can be obtained via this repository.
