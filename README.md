@@ -10,7 +10,7 @@ Presenters: Dietz, Bast, Chatterjee, Dalton, Meij, de Vries
 -- more focus on entities
 
 
-* [**SIGIR 2023 in Taipei**](SIGIR2023/)
+* [**SIGIR 2023 in Taipei**](SIGIR23/)
 
 Presenters: Dietz, Bast, Chatterjee, Dalton, Nie, Nogueira
 
